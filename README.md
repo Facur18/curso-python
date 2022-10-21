@@ -14,5 +14,7 @@ source venv/bin/activate
 pip3 install -r requiriments.txt
 python3 main.py
 
+# Docker
 
+Agregamos web-server y app a docker
 
